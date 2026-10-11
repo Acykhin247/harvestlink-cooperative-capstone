@@ -23,17 +23,17 @@ it was under-planted.
 ## Dashboard Preview
 
 
-![Overview](HarvestLink-Dashboard-Overview.PNG)
+![Overview](screeshots/HarvestLink-Dashboard-Overview.PNG)
 
 
 
 
-![District Efficiency](HarvestLink-Dashboard-Efficiency.PNG)
+![District Efficiency](screeshots/HarvestLink-Dashboard-Efficiency.PNG)
 
 
 
 
-![Market Channels & Losses](HarvestLink-Dashboard-Losses.PNG)
+![Market Channels & Losses](screeshots/HarvestLink-Dashboard-Losses.PNG)
 
 
 
