@@ -1,4 +1,3 @@
-# harvestlink-cooperative-capstone
 # HarvestLink Cooperative — Performance Analysis
 
 A data-driven analysis of a Ghanaian farmer cooperative's profitability, 
@@ -24,17 +23,17 @@ it was under-planted.
 ## Dashboard Preview
 
 
-![Overview](HarvestLink Dashboard Overview.PNG)
+![Overview](harvestlink-cooperative-capstone\screenshots\HarvestLink Dashboard Overview.PNG)
 
 
 
 
-![District Efficiency](HarvestLink Dashboard Efficiency.PNG)
+![District Efficiency](harvestlink-cooperative-capstone\screenshots\HarvestLink Dashboard Efficiency.PNG)
 
 
 
 
-![Market Channels & Losses](HarvestLink Dashboard Losses.PNG)
+![Market Channels & Losses](harvestlink-cooperative-capstone\screenshots\HarvestLink Dashboard Losses.PNG)
 
 
 
